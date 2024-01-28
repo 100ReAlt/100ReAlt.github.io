@@ -1,0 +1,162 @@
+[
+    {
+     "streamnumber": 1,
+     "name": "METAS VIP",
+     "latitude": "40.385199",
+     "longitude": "49.805097",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "2 Akim Abbasov"
+    },
+    {
+     "streamnumber": 2,
+     "name": "OLDSCHOOL DETAILING",
+     "latitude": "40.398402",
+     "longitude": "49.811067",
+     "moyka_type": "Avtomobil Yuyulmasi, Kimyevi Temizleme",
+     "address": "57A Tbilisi prospekti"
+    },
+    {
+     "streamnumber": 3,
+     "name": "AutoSpa",
+     "latitude": "40.390788",
+     "longitude": "49.848411",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "9RRX+87H, Bakikhanova"
+    },
+    {
+     "streamnumber": 4,
+     "name": "50 qepik moyka",
+     "latitude": "40.355706",
+     "longitude": "49.976727",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "Beton yol baku bus, Zig yolu"
+    },
+    {
+     "streamnumber": 5,
+     "name": "Avto yuma (Moyka)",
+     "latitude": "40.392039",
+     "longitude": "49.894735",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "Masadi Hilal Kazimov"
+    },
+    {
+     "streamnumber": 6,
+     "name": "Stardetailing",
+     "latitude": "40.396777",
+     "longitude": "49.890560",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "Stardetailing, Baku"
+    },
+    {
+     "streamnumber": 7,
+     "name": "Molecule Carwash",
+     "latitude": "40.404111",
+     "longitude": "49.880071",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "20 Aliyar Aliyev"
+    },
+    {
+     "streamnumber": 8,
+     "name": "Detail CarWash Baku",
+     "latitude": "40.387249",
+     "longitude": "49.838082",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "90 Samed Vurgun"
+    },
+    {
+     "streamnumber": 9,
+     "name": "CarBath.az",
+     "latitude": "40.378950",
+     "longitude": "49.867442",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "11 Afiyaddin Jalilov"
+    },
+    {
+     "streamnumber": 10,
+     "name": "Balina Carwash",
+     "latitude": "40.384582",
+     "longitude": "49.883534",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "3 Merkezi Bulvar"
+    },
+    {
+     "streamnumber": 11,
+     "name": "Wash_No1",
+     "latitude": "40.410097",
+     "longitude": "49.844103",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "50 Ibrahimpasa Dadasov"
+    },
+    {
+     "streamnumber": 12,
+     "name": "Pax Makina Azerbaijan",
+     "latitude": "40.391465",
+     "longitude": "49.906887",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "Babek Prospekti, 39 Q"
+    },
+    {
+     "streamnumber": 13,
+     "name": "Moyka 50 qepik",
+     "latitude": "40.367632",
+     "longitude": "49.810267",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "Matbuat avenue"
+    },
+    {
+     "streamnumber": 14,
+     "name": "Delux Detailing AAAF Park",
+     "latitude": "40.457301",
+     "longitude": "49.724151",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "AAAF PARK, kuc 25, Xirdalan"
+    },
+    {
+     "streamnumber": 15,
+     "name": "Washtec Baku",
+     "latitude": "40.382257",
+     "longitude": "49.857033",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "Keykab Khanim Safaraliyeva"
+    },
+    {
+     "streamnumber": 16,
+     "name": "Washtec Baku",
+     "latitude": "40.376107",
+     "longitude": "49.853137",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "49 Khagani Street"
+    },
+    {
+     "streamnumber": 17,
+     "name": "Baku Car Wash",
+     "latitude": "40.380868",
+     "longitude": "49.807769",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "Gazanfer Musabeyov Parki"
+    },
+    {
+     "streamnumber": 18,
+     "name": "Euromax Avtoservis Avadinliqlari",
+     "latitude": "40.391068",
+     "longitude": "49.904423",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "Babek Prospekti"
+    },
+    {
+     "streamnumber": 19,
+     "name": "Emirat Avtoyuma",
+     "latitude": "40.458774",
+     "longitude": "49.755829",
+     "moyka_type": "Avtomobil Yuyulmasi, Kofe dukani",
+     "address": "Aliaga Vahid kucesi 41, Xirdalan"
+    },
+    {
+     "streamnumber": 20,
+     "name": "AvtoYuma",
+     "latitude": "40.376675",
+     "longitude": "49.844208",
+     "moyka_type": "Avtomobil Yuyulmasi",
+     "address": "9RGV+MH8, Baku"
+    }
+   ]

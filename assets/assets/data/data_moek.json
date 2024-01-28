@@ -1,0 +1,27 @@
+[
+    {
+     "moyka_num": 1,
+     "moyka_name": "Lux Avto Yuma",
+     "site": "https://www.instagram.com/nano_avtoyuma/",
+     "phone": "+994-55-310-0012",
+     "address": "ABBAS-SAHÁT KÜC.",
+     "type": "Nano yuma",
+     "price": "10 AZN",
+     "wh": "9:00 - 21:00",
+     "latitude": "40.394280",
+     "longitude": "49.832525"
+    },
+    {
+     "moyka_num": 2,
+     "moyka_name": "Nano Avto Yuma",
+     "site": "https://www.facebook.com/p/lux_avto_yuma-100063552935895/",
+     "phone": "+994-70-270-0545",
+     "address": "Shamahinka",
+     "type": "Regular Yuma",
+     "price": "12 AZN",
+     "wh": "24/7",
+     "latitude": "40.418206",
+     "longitude": "49.799495"
+    }
+   ]
+    
